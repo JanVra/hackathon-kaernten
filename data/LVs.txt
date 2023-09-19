@@ -1,0 +1,24 @@
+﻿Semester;LV Name;ECTS;Kategorie
+1;Einführung in die Datenanalyse;5;1
+1;Einführung in die Ökonomie;2;1
+1;Grundlagen der Mathematik;5;2
+1;Grundlagen der Statistik;5;2
+1;Grundlagen des Programmierens;5;3
+1;Grundzüge der Informatik;5;3
+1;Organisation, Marketing und Vertrieb;3;1
+2;Angewandte Statistik;5;2
+2;Datenanalysewerkzeuge;5;1
+2;Datenbanktechnologien;5;3
+2;Ethik und Recht;5;1
+2;Programmieren für Data Scientists;5;3
+2;Wissenschaftliches Arbeiten;5;1
+3;Artificial Intelligence;3;3
+3;Data Governance & Protection;4;1
+3;Data Mining & Machine Learning;8;2
+3;VT BA: Business Intelligence;6;1
+3;VT BA: Digital Business;4;1
+3;VT BA: Management & Controlling;5;1
+4;Computer Vision & Natural Language Processing;5;3
+4;Datenvisualisierung / Visual Analytics;5;1
+4;Vertiefungsseminar;10;1
+

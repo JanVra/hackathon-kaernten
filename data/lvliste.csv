@@ -1,0 +1,23 @@
+lv_id,Semester,LV Name,ECTS
+1,1,Einführung in die Datenanalyse,5
+2,1,Einführung in die Ökonomie,2
+3,1,Grundlagen der Mathematik,5
+4,1,Grundlagen der Statistik,5
+5,1,Grundlagen des Programmierens,5
+6,1,Grundzüge der Informatik,5
+7,1,"Organisation, Marketing und Vertrieb",3
+8,2,Angewandte Statistik,5
+9,2,Datenanalysewerkzeuge,5
+10,2,Datenbanktechnologien,5
+11,2,Ethik und Recht,5
+12,2,Programmieren für Data Scientists,5
+13,2,Wissenschaftliches Arbeiten,5
+14,3,Artificial Intelligence,3
+15,3,Data Governance & Protection,4
+16,3,Data Mining & Machine Learning,8
+17,3,VT BA: Business Intelligence,6
+18,3,VT BA: Digital Business,4
+19,3,VT BA: Management & Controlling,5
+20,4,Computer Vision & Natural Language Processing,5
+21,4,Datenvisualisierung / Visual Analytics,5
+22,4,Vertiefungsseminar,10
