@@ -1,0 +1,66 @@
+[
+    {
+        "lv_name": "Grundlagen der Mathematik",
+        "topics": "Elementare Logik, Boolesche Algebra Zahlenmengen, Mengen Lineare Algebra"
+    }, {
+        "lv_name": "Grundlagen der Statistik",
+        "topics": "Beschreibende Statistik, Klassische und moderne statistische Grafik, Konstruktion von Zufallsstichproben, Induktive Statistik, Abschätzung von FehlerwahrscheinlichkeitenGrafische Darstellungsmöglichkeiten"
+    }, {
+        "lv_name": "Einführung in die Datenanalyse",
+        "topics": "Data Science Tools, Datentypen, Merkmale, Instanzen, Validierung, Overfitting, Verzerrungs-Varianz-Dilemma, Data Mining, Computer Vision, Machine Learning"
+    }, {
+        "lv_name": "Angewandte Statistik",
+        "topics": "Dateninterpretation mit statistischen Verfahren mit R und Excel, Lineare Modelle, Unterschiede zwischen univariaten und multivariaten Methoden, Klassifikationsalgorithmen, Simulation zur Abschätzung der Leistungsfähigkeit statistischer Verfahren, Grundkonzepte von Fraud Detection, Grundzüge interaktiver statistischer Grafik"
+    }, {
+        "lv_name": "Datenanalysewerkzeuge",
+        "topics": "Inputformate (CSV, XML, ...), Nutzung von Data Science Tools zur Implementierung einfacher Data Mining Aufgabenstellungen, Austauschformate (PMML, PFA...) Explorative Datenanalyse / Visualisierung Storytelling mit Daten"
+    }, {
+        "lv_name": "Data Governance & Protection",
+        "topics": "Grundlage Governance, Grundlagen Data Governance / Managements / Data Curation, Datensicherheit"
+    }, {
+        "lv_name": "Data Mining & Machine Learning",
+        "topics": "Vorverarbeitung, Analysemethoden, Einführung Machine Learning, Supervised Learning, Unsupervised Learning, Reinforcement Learning"
+    }, {
+        "lv_name": "Artificial Intelligence",
+        "topics": "Neuronale Netze, Deep Learning, Feedforward-Netze, Convolutional Neural Networks o Recurrent Neural Networks, Self-Organizing Maps, Boltzmann Machines, Input Layer / Output Layer / Hidden Layer"
+    }, {
+        "lv_name": "Grundzüge der Informatik",
+        "topics": "Algorithmen und Datenstrukturen, Betriebssysteme, Netzwerke, Virtualisierung"
+    }, {
+        "lv_name": "Grundlagen des Programmierens",
+        "topics": "Dokumentation und Verwaltung von Source Code, Testen, Strukturieren von Problemen, Entwicklungswerkzeuge und -Plattformen (z.B.: IDEs, iPython, Anaconda), Objektorientiertes Programmieren"
+    }, {
+        "lv_name": "Datenbanktechnologien",
+        "topics": "Datenbarnkentwurf, Not-Only-SQL Datenbanken, SQL, DDL, DML, Normalformen, Entity Relation Modell"
+    }, {
+        "lv_name": "Programmieren für Data Scientists",
+        "topics": "Text Processing / Text Mining, Datenbanken, Linear Alebra, Data Manipulation, Web Crawling, XML Prcessing"
+    }, {
+        "lv_name": "Datenvisualisierung / Visual Analytics",
+        "topics": "Human-Computer Interaction, Wahrnehmung und kognitive Prozesse, Interaktive Visualisierung, Integration von Visualisierung und automatischer Datenanalyse, Systeme, Tools und Applikationen"
+    }, {
+        "lv_name": "Computer Vision & Natural Language Processing",
+        "topics": "Einführung Natural Language Processing, Einführung Computer Vision"
+    }, {
+        "lv_name": "Einführung in die Ökonomie",
+        "topics": "Mikroökonomie, Makroökonomie, Wirtschaftspolitik"
+    }, {
+        "lv_name": "Organisation, Marketing und Vertrieb",
+        "topics": "Organisation und Prozessmanagement, Teambuilding, Grundlagen Marketing und Vertrieb"
+    }, {
+        "lv_name": "Ethik und Recht",
+        "topics": "Immaterialgüter- & Wettbewerbsrecht, Datenschutz, Ethik"
+    },{
+        "lv_name": "VT BA: Business Intelligence",
+        "topics": "Einführung in BI Umgebungen (Konzepte, Architektur, ...), Grundlagen Data Warehouse, Einführung in Big Data und Data Lake, Modellierung multidimensionale Datenräume, ETL Prozess, Metadaten, Stammdaten, Referenzdaten, Berechtigungsstrukturen, Reporting und OLAP, Verbindung eines Data Warehouse mit Analytics Reporting Tools, Grundlagen Reporting in unterschiedlichen Anwendungsbereichen, Anwendung BI Tools, Dashboards"
+    }, {
+        "lv_name": "VT BA: Management & Controlling",
+        "topics": "Controlling, Financial Reporting, Management, Corporate Finance"
+    }, {
+        "lv_name": "VT BA: Digital Business",
+        "topics": "Überblick über digitale Geschäftsmodelle, deren Strategien, Produkte und Dienstleistungen, Management von digital Business Infrastrukturen (Komponenten, Standards, Governance, ...), Prozessmanagement, Plattform-Geschäftsmodelle und Business Analytics Management der digitalen Transformation von Unternehmen und Organisationen, Grundlagen New Work, Digitale Anwendungen wie Empfehlsysteme, Process Mining, eCommerce, Qualitätssicherung"
+    }, {
+        "lv_name": "Vertiefungsseminar",
+        "topics": "Grundlagen In jedem Schwerpunkt werden durch Vorträge und seminaristischen Arbeiten die Grundlagen der Vertiefungsrichtung erarbeitet Besprechung häufiger Anwendungsfelder der Vertiefungsrichtung Um die Handlungskompetenz der Studierenden zu fördern, werden Problemstellungen vorgestellt, welche durch die Studierenden im Laufe des Seminars gelöst werden müssen."
+    }
+]
